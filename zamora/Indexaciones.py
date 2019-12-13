@@ -1,0 +1,94 @@
+#EJERCICIO 1:
+#    0         10        20        30        40
+#    0123456789012345678901234567890123456789012345
+msg="LA VIDA ES MARAVILLOSA SI NO SE LE TIENE MIEDO"
+print(msg[45])                               #DEVUELVE O
+
+
+#EJERCICIO 2:
+#    0         10        20        30
+#    012345678901234567890123456789012
+msg="LA CONSTITUCION POLITICA DEL PERU"
+print(msg[8])                               #DEVUELVE I
+
+
+#EJERCICIO 3:
+#    0         10        20        30
+#    0123456789012345678901234567890123
+msg="LA BIOLOGIA ES UNA CIENCIA FACTICA"
+print(msg[30])                                #DEVUELVE T
+
+
+#EJERCICIO 4:
+#    0         10        20
+#    01234567890123456789012345
+msg="LA HISTORIA ES UNA CIENCIA"
+print(msg[1])                               #DEVUELVE L
+
+
+#EJERCICIO 5:
+#    0         10        20        30        40        50        60
+#    0123456789012345678901234567890123456789012345678901234567890123
+msg="EL CONOCIMIENTO TE DARA PODER, PERO EL CARARCTER TE DARA RESPETO"
+print(msg[47])                               #DEVUELVE R
+
+
+#EJERCICIO 6:
+#    0         10        20        30
+#    01234567890123456789012345678901234567
+msg="A RIO REVUELTO, GANANCIA DE PESCADORES"
+print(msg[37])                               #DEVUELVE S
+
+
+#EJERCICIO 7:
+#    0         10        20        30        40        50        60        70
+#    0123456789012345678901234567890123456789012345678901234567890123456789012345678
+msg="EL SABIO NO DICE NUNCA TODO LO QUE PIENSA, PERO SIEMPRE PIENSA TODO LO QUE DICE"
+print(msg[66])                               #DEVUELVE O
+
+
+#EJERCICIO 8:
+#              1         2         3
+#    012345678901234567890123456789012345
+msg="TIENES QUE DEJAR IR LO QUE YA SE FUE"
+print(msg[27])                               #DEVUELVE Y
+
+
+#EJERCICIO 9:
+#              1         2         3         4         5
+#    01234567890123456789012345678901234567890123456789012345678
+msg="NI NACI CUANDO TE CONOCI, NI ME VOY A MORIR CUANDO TE VAYAS"
+print(msg[38])                               #DEVUELVE M
+
+
+#EJERCICIO 10:
+#              1         2         3         4         5
+#    012345678901234567890123456789012345678901234567890
+msg="SE TU MISMO, Y LA GENTE CORRECTA SE QUEDARA CONTIGO"
+print(msg[41])                                #DEVUELVE R
+
+
+#EJERCICIO 11:
+#              1         2         3         4         5         6
+#    0123456789012345678901234567890123456789012345678901234567890123456789
+msg="UNA VEZ QUE ACEPTAS TUS DEFECTOS, NADIE PODRA UTILIZARLOS EN TU CONTRA"
+print(msg[15])                               #DEVUELVE P
+
+# Ejercicio 12:
+#    0         10        20        30
+#    0123456789012345678901234567890123456
+msg="A RIO REVUELTO, GANANCIA DE PESCADORES"
+
+
+#EJERCICIO 13:
+#    0         10        20        30
+#    0123456789012345678901234567890123456789
+msg="CON LA MISMA VARA QUE MIDAS SERAS MEDIDO"
+print(msg[34])                               #DEVUELVE M
+
+
+#EJERCICIO 14:
+#              1         2         3         4         5
+#    01234567890123456789012345678901234567890123456789012
+msg="CUALQUIER COSA ES POSIBLE SI TIENES SUFICIENTE CORAJE"
+print(msg[51])                               #DEVUELVE 51
